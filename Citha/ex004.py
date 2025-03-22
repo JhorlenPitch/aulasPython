@@ -44,3 +44,6 @@ try:
 
 except Exception as e:
     print(f"❌ Erro ao enviar o e-mail: {e}")
+
+
+#https://myaccount.google.com/lesssecureapps
