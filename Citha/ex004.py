@@ -47,3 +47,4 @@ except Exception as e:
 
 
 #https://myaccount.google.com/lesssecureapps
+#https://myaccount.google.com/apppasswords/
